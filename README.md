@@ -1,6 +1,6 @@
 # Hi there, I'm Balaji-Bonageri👋
 # 💫 About Me:
-🌱 I’m currently pursue my bachelor in computer science<br>🔭 I’m currently working on somthing cool<br>💬 Ask me about GITHUB<br>
+🌱 I’m currently pursue my bachelor in computer science<br>🔭 I’m currently working on something cool<br>💬 Ask me about GITHUB<br>
 
 
 ## 🌐 Socials:
