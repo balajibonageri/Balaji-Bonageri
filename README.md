@@ -1,5 +1,5 @@
 ## Badges
-  [![@balajibonageri Holopin board](https://holopin.me/balajibonageri)(https://holopin.io/@balajibonageri)
+  [![@balajibonageri Holopin board](https://holopin.me/balajibonageri)](https://holopin.io/@balajibonageri)
 ## Hi There!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> I am Balaji Bonageri <img src="https://camo.githubusercontent.com/e8443b00c5bd5c13e8ebcc0088a39e9d9959c4f183468cb81dbaa4abefcbce7c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4861736162657238">
 <a href="mailto:bldecse.bsb@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
