@@ -5,8 +5,10 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://www.linkedin.com/in/balaji-bonageri-3a716a16b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style=“margin-bottom: 5px;” />
- <a href="https://www.hackerrank.com/Balaji_Bonageri" target="_blank">
- <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+<a href="https://www.hackerrank.com/Balaji_Bonageri" target="_blank">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+<a href="https://www.codechef.com/users/balajisb" />
+<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />
 </a>
 <a href="https://twitter.com/BonageriBalaji" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style=“margin-bottom: 5px;” />
