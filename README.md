@@ -16,7 +16,7 @@
 
 <div style="padding-top:1000px; padding-left:500px">
   
-![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balajibonageri&theme=flag-india)
+![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balajibonageri&theme=codeSTACKr)
   </div>
 </div>
   
