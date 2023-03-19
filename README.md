@@ -4,6 +4,8 @@
 <a href="mailto:bldecse.bsb@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://www.linkedin.com/in/balaji-bonageri-3a716a16b/" target="_blank">
+ <img src="https://img.shields.io/badge/HackerRank-D14836?style=for-the-badge&logo=gmail&logoColor=green" />
+<a href="https://www.hackerrank.com/Balaji_Bonageri" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style=“margin-bottom: 5px;” />
 </a>
 <a href="https://twitter.com/BonageriBalaji" target="_blank">
