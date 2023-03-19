@@ -16,7 +16,7 @@
 
 <div style="padding-top:1000px; padding-left:500px">
   
-<img alt="Balaji's github stats" src="https://github-readme-stats.vercel.app/api?username=balajibonageri&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<img alt="Balaji's github stats" src="https://github-readme-stats.vercel.app/api?username=balajibonageri&&show_icons=true&title_color=ff652f&icon_color=FFE400&text_color=ffffff&bg_color=09131B&border_color=0c1a25" >
   </div>
 </div>
   
